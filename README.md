@@ -1,2 +1,2 @@
 # git-collaboration-test
-- Ajout git 
+- Ajout collaboration git 
